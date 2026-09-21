@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# 실행 로그·체크포인트
+logs/
+*.log
+*_checkpoint*.json
+*_checkpoint*.xlsx
+
+# 편집기
+.vscode/
+.idea/
+
+# 환경변수
+.env
